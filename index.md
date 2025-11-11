@@ -1,25 +1,20 @@
 ---
-title: Xanthan home
+title: Food Stories 
 layout: base
 date: 2024-12-02
 ---
 
-# Welcome to Xanthan
+# American Food Stories
 
 {% include figure.html
   class="right"
   width="33%"
-  caption="Xanthan chemical structure"
-  image-path="/assets/images/Xanthan.svg"
-  source-url="https://commons.wikimedia.org/wiki/File:Xanthan.svg"
+  caption="Classic non-American Classics"
+  image-path="/assets/images/american-classics.png"
 %}
 
-Xanthan is a simple website template that makes it easy to share humanities work online in an open and sustainable way. Your digital projects can be hosted for free, always accessible, easy to update, and remain available until you decide otherwise.
+Food Stories is a collaborative digital archive dedicated to preserving the lived experiences, memories, and meanings of food in American life. While recipes and ingredients can be written down, the stories that surround food — how it’s made, shared, remembered, and reimagined — are often fleeting, passed through conversation, gesture, and routine. This project seeks to capture those moments before they disappear.
 
-At its core, Xanthan supports creative approaches to scholarship and teaching. It includes features for digital storytelling---such as a StoryMap-style interface---that invite you to present research in ways that are visually engaging and intellectually compelling.
+By gathering oral histories from diverse participants, Food Stories explores how food functions as a site of cultural memory, belonging, and transformation. Community-driven archives like this one challenge traditional models of collecting and preserving the past: they value personal narrative alongside material evidence, and they affirm that everyday experience is itself a form of historical knowledge.
 
-Unlike commercial platforms such as Wix or Squarespace, Xanthan emphasizes openness and durability over quick customization. Updating your site takes a little more attention to detail, but you don’t need any technical background to get started. 
-
-The goal is to provide a gentle path into digital publishing that foregrounds technical literacy, collaboration, sustainability, design and storytelling as essential tools for communicating about the humanities.
-
-If you're brand new, jump into our set of guides and [get started](guides/getting-started)!
+In documenting these stories together, we recognize the archive not as a static repository, but as a living record shaped by participation, care, and shared authorship — a way of understanding history through the tastes, textures, and memories that define community life.
