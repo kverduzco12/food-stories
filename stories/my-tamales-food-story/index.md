@@ -1,30 +1,31 @@
 ---
-title: My First BBQ
-author: Fred Gibbs
-location: Durham, NC
-thumbnail: bbq.png
-summary: My first BBQ was hosted by Chef Boyardee and everyone was very happy. Yummy!
-date: 2025-08-01
+title: My Tamales Story
+author: Karen Verduzco
+location: Lubbock, TX
+thumbnail: tamales.png
+summary: My meaningful tradition of making tamales with my family!
+date: 2025-012-12
 layout: base
 tags:
-  - BBQ
-  - cookout
+  - Tamales
+  - women
   - community
 ---
 
 # Generic Story Title
-This story comes from Jordan Lee, who grew up in Chicago, where “barbecue” usually meant something you did on a gas grill in the backyard. She moved to North Carolina for school, and that’s where she got invited to her first real Southern barbecue. 
+This story comes from me, Karen Verduzco, who grew up in Texas, where the process and production of tamales has always been meaningful and carried by tradition.
 
 {% include figure.html
   class="right"
   width="40%"
-  caption="What a nice view"
-  image-path="bbq.png"
+  caption="Love in our hands"
+  <img width="1024" height="1024" alt="Gemini_Generated_Image_av6anhav6anhav6a" src="https://github.com/user-attachments/assets/def70396-7cb7-4063-9f0d-d092785b2512" />
+
 %}
 
 
 ## Something more specific
-She didn’t know it at the time, but that afternoon ended up changing the way she thought about food and history. A student recalls experiencing their first authentic Southern barbecue, where the smell of smoke, the sound of conversation, and the sense of community transformed a meal into something much deeper. They learn from the pitmaster about the tradition’s roots, passed down through generations and reflected in distinct regional sauce styles tied to Southern history. By the end, the student realizes that barbecue is not just food—it’s a living expression of history, family, and belonging.
+The yearly ritual of making tamales shaped my understanding of food, identity and even family. Bonding with the women in my family while making a meal that means so much to us has created a gateway of knowlege into my ancestors and myself. Tamales predate colonization and have eveolved over hundreads of years but the process of making them has always remainded just as sacred and meaningful. In between it all I find a middle ground between my Mexican American Identity.
 
 
 {% include audio.html
@@ -32,12 +33,16 @@ She didn’t know it at the time, but that afternoon ended up changing the way s
 %}
 
 
-## Analysis: Smoke, Memory, and Belonging
+## Analysis: Idnetity, belonging, and culture
 
-Listening back to this oral history, what first stands out is how quickly the story moves from describing food to describing a feeling. The narrator begins with sensory detail — the smell of smoke, the chatter under the trees, the look of the smoker — but those descriptions quickly become about *community* rather than cuisine. That shift captures one of the big themes we’ve discussed in class: that food events are not just about eating but about sustaining relationships, passing on traditions, and affirming a sense of belonging. The barbecue becomes a living archive of memory and connection — something that exists through repetition and participation more than through written recipes.
+Tamales hold deep importance and cultural significance in Mexican communities. In my family, tamales bond us together and move from food to feeling. From the process of the ingredients being chosen all the way to the consumption of them. Every Thanksgiving and Christmas eve, all the women in my family gather together and prepare the tamales together. Although tamales are a central dish, the narrative focuses more on the relationships and bonding. For my family and I, tamales mark moments of bonding, tradition, and connection that reinforces my personal cultural identity. This circles back to themes we have discussed in class that certain foods are not just about eating.
 
-The story also reflects the idea of **embodied knowledge and generational transmission**. The pitmaster’s line about learning from his grandfather and letting “the meat tell you when it’s ready” shows that expertise here isn’t formal or codified; it’s experiential and relational. In class, we’ve talked about how food work often relies on skills that are undervalued or unrecorded — the kinds of knowledge passed along by doing, by apprenticeship, by memory. In this sense, barbecue exemplifies what we might call *vernacular expertise*: a tradition maintained through labor, observation, and care, rather than through institutional authority.
+The process of making tamales is communal compared to other dishes that are made quickly and do not require much help. Tamales require a group effort and a lot of time dedicated. Each corn husk must be individually soaked and washed carefully, the meat needs to be prepared hours before to make sure its tender and all of the flavor hits just right, the masa must be made in a large amount and it must be made in the right consistency, finally each tamale is put together by hand and crafted with care and love. These tasks are shared within each of us as we share conversation, joke, give advice, revisit memories, etc. The kitchen becomes a sacred space. In contrast to American food culture which prioritizes convenience and speed.
 
-When the narrator mentions the regional sauces — vinegar, mustard, tomato — and notes that each corresponds to a different part of the South, the story expands into a meditation on **regional identity and historical layering**. As we’ve read, those variations aren’t just matters of taste but markers of geography, migration, and cultural blending. The acknowledgment of Indigenous and African roots gestures toward the deeper and often erased histories embedded in “Southern” foodways. What feels like a casual backyard gathering is, on another level, the product of centuries of adaptation, exchange, and inequality.
+This story emphasises how women are seen as caretakers and collectors of knowledge that is passed down from generation to generation in Mexican culture. Recipes are usually taught one on one instead of written down. There is a lot of feeling and viewing that is used in Mexican recipes compared to American recipes. With tamales the masa has to feel a certain way, the meat has to lay a certain way, and the corn husk has to be folded a certain way. Mexican culture associates cooking with care and family responsibility and gives women authority and respect in the family structure. I have seen the respect my mother has gained in my family because of the knowledge she carries. Unlike many family households in America, my mother is the head of the household instead of my father.
 
-Finally, the closing reflection — that the barbecue was “bigger than one meal” and “about belonging” — aligns with our discussions about **food as cultural memory**. The student recognizes that what endures isn’t just the recipe or the flavor, but the shared experience: the smoke, the labor, the crowd, the sense of continuity. In that moment, the story illustrates how oral histories capture what archives often miss — the *ephemeral* parts of culture that make history feel alive. Through sound, emotion, and storytelling, this single barbecue becomes a microhistory of American food itself: regional yet shared, ordinary yet full of meaning.
+Tamales have existed before European colonization and to me represent a symbol of continuity against anything that threatens our culture and identity. There are various ways and types of tamales that can be made, representing how Mexican culture adapts to change while still persevering the tradition, meaning, and memory.
+
+Authenticity does not exactly mean that tamales follow one exact recipe because every family makes them differently depending on tradition or even region. Authenticity is measured through tradition, intention, and bonding. In American culture tamales are often seen as “authentic” but the labor and cultural meaning behind the process are often dismissed. My mom and Dad’s side both make tamales differently but the process of reunion, love, and care all stay the same.
+
+The making of tamales allows me to preserve my cultural identity even though I do not live in Mexico and things are different in America. It is easy to feel disconnected from that side of myself because I live away from my family and am fully immersed in American culture which prioritizes convenience but every Thanksgiving and Christmas I am reminded of who I am. Through a shared ritual of something that may seem so simple from the outside, my family shows resistance against the change as my ancestors have done for hundreds of years. Tamales are not just a food, they are an assertion of my personal identity.
