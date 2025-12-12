@@ -2,7 +2,7 @@
 title: My Tamales Story
 author: Karen Verduzco
 location: Durham, NC
-thumbnail:<img width="1024" height="1024" alt="family pic" src="https://github.com/user-attachments/assets/0fe82db1-3866-4463-aebc-5f8b5b9731f9" />
+thumbnail:<img alt="family pic" src="https://github.com/user-attachments/assets/0fe82db1-3866-4463-aebc-5f8b5b9731f9" />
 
 summary:My meaningful tradition of making tamales with my family!
 date: 2025-12-12
