@@ -2,7 +2,8 @@
 title: Tamales Culture
 author: Karen Verduzco
 location: Lubbock, TX
-thumbnail: 
+thumbnail: <img width="1024" height="1024" alt="tam pic" src="https://github.com/user-attachments/assets/df7c06c4-369c-4a9d-a91b-64a607f13303" />
+
 summary: My meaningful tradition of making tamales with my family!
 date: 2025-12-12
 layout: base
@@ -27,7 +28,8 @@ This story comes from Karen Verduzco who talks about how meaningful making tamal
 Ultimately, the making of tamales allows me to preserve my cultural identity within American society. Although I do not live in Mexico, these holiday gatherings reconnect me to my heritage and remind me of who I am. Through a ritual that may seem ordinary from the outside, my family resists cultural erasure in the same way our ancestors have for generations. Tamales are not just food; they are a living expression of identity, memory, and belonging.
 
 {% include audio.html
-  src=
+  src=[Tamales (1).mp3](https://github.com/user-attachments/files/24137498/Tamales.1.mp3)
+
 %}
 
 
