@@ -21,7 +21,7 @@ Love in our hands
 
 
 
-## Something more specific
+Rememberance within my own hands
 The yearly ritual of making tamales shaped my understanding of food, identity and even family. Bonding with the women in my family while making a meal that means so much to us has created a gateway of knowlege into my ancestors and myself. Tamales predate colonization and have eveolved over hundreads of years but the process of making them has always remainded just as sacred and meaningful. In between it all I find a middle ground between my Mexican American Identity.
 
 
@@ -29,8 +29,7 @@ The yearly ritual of making tamales shaped my understanding of food, identity an
   src="bbq.mp3"
 %}
 
-
-## Analysis: Idnetity, belonging, and culture
+ Identity, belonging, and culture
 
 Tamales hold deep importance and cultural significance in Mexican communities. In my family, tamales bond us together and move from food to feeling. From the process of the ingredients being chosen all the way to the consumption of them. Every Thanksgiving and Christmas eve, all the women in my family gather together and prepare the tamales together. Although tamales are a central dish, the narrative focuses more on the relationships and bonding. For my family and I, tamales mark moments of bonding, tradition, and connection that reinforces my personal cultural identity. This circles back to themes we have discussed in class that certain foods are not just about eating.
 
