@@ -25,9 +25,8 @@ Rememberance within my own hands
 The yearly ritual of making tamales shaped my understanding of food, identity and even family. Bonding with the women in my family while making a meal that means so much to us has created a gateway of knowlege into my ancestors and myself. Tamales predate colonization and have eveolved over hundreads of years but the process of making them has always remainded just as sacred and meaningful. In between it all I find a middle ground between my Mexican American Identity.
 
 
-{% include audio.html
-  src="bbq.mp3"
-%}
+
+
 
  Identity, belonging, and culture
 
