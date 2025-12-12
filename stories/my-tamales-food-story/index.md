@@ -15,13 +15,10 @@ tags:
 # Generic Story Title
 This story comes from me, Karen Verduzco, who grew up in Texas, where the process and production of tamales has always been meaningful and carried by tradition.
 
-{% include figure.html
-  class="right"
-  width="40%"
-  caption="Love in our hands"
+Love in our hand
   <img width="1024" height="1024" alt="Gemini_Generated_Image_av6anhav6anhav6a" src="https://github.com/user-attachments/assets/def70396-7cb7-4063-9f0d-d092785b2512" />
 
-%}
+
 
 
 ## Something more specific
