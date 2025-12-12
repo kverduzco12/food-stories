@@ -2,7 +2,8 @@
 title: My Tamales Story
 author: Karen Verduzco
 location: Lubbock, TX
-thumbnail: tamales.png
+thumbnail: <img width="1024" height="1024" alt="Gemini_Generated_Image_av6anhav6anhav6a" src="https://github.com/user-attachments/assets/144ab24f-7d7c-4928-9bee-8a9a35293418" />
+
 summary: My meaningful tradition of making tamales with my family!
 date: 2025-012-12
 layout: base
