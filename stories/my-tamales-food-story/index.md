@@ -2,7 +2,7 @@
 title: My Tamales Story
 author: Karen Verduzco
 location: Lubbock, Texas
-thumbnail:src="https://github.com/user-attachments/assets/dece2579-7454-45f2-83fd-9c3fbd7da003" />
+thumbnail:src=
 
 
 
