@@ -3,9 +3,6 @@ title: Tamales Culture
 author: Karen Verduzco
 location: Lubbock, TX
 thumbnail: tamales.png
-
-<!-- <img width="1024" height="1024" alt="tam pic" src="https://github.com/user-attachments/assets/df7c06c4-369c-4a9d-a91b-64a607f13303" /> -->
-
 summary: My meaningful tradition of making tamales with my family!
 date: 2025-12-12
 layout: base
@@ -14,6 +11,8 @@ tags:
   - Women
   - Family
 ---
+<!-- <img width="1024" height="1024" alt="tam pic" src="https://github.com/user-attachments/assets/df7c06c4-369c-4a9d-a91b-64a607f13303" /> -->
+
 
 # My Tamales Story
 This story comes from Karen Verduzco who talks about how meaningful making tamales with her family is.  
