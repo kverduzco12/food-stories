@@ -21,7 +21,7 @@ This story comes from Karen Verduzco who talks about how meaningful making tamal
   class="right"
   width="40%"
   caption= "Joy in the Air"
-  image-path=
+  image-path="stories/tamales/tamales.png"
 %}
 
 
